@@ -1,7 +1,5 @@
 # React Interview Challenge #01
 
-
-
 ## Desenvolva uma aplicação em que:
 
     - O usuário pode clicar em qualquer lugar da página.
@@ -10,5 +8,3 @@
     - Crie duas funcionalidades para a aplicação:
          - desfazer (undo)
          - refazer (redo)
-    
-
