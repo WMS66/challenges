@@ -50,8 +50,8 @@ function App() {
 
   return (
     <div id="page" onClick={handleClick}>
-      <button onClick={handleUndo}>Desfazer</button>
-      <button onClick={handleRedo}>Refazer</button>
+      <button onClick={handleUndo}> Desfazer</button>
+      <button onClick={handleRedo}> Refazer</button>
       {list.map((item, clientX) => (
         <span
           key={item.clientX}
